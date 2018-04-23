@@ -8,7 +8,7 @@ Eu aprimorei o faucet oficial e criei um tutorial para permitir a criação de m
 
 - Unlimited requests (instead of limiting/hour/ip/wallet)
 - Backed by Coinhive captcha instead of Google (https://coinhive.com/info/captcha-help)
-- Minimum reward set to lowest unit of the coin
+- Minimum reward set to smallest unit of the coin +1 (0.0002 as there is a 0.0001 min network fee)
 - Maximum reward set to 1% of the availiable balance of Faucet wallet
 
 Doe para o meu Faucet:
