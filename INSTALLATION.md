@@ -1,4 +1,4 @@
-#Cryptonight Faucet Installation
+# Cryptonight Faucet Installation
 
 Instale todos os componentes necessários, a começar pelo MariaDB seguindo este tutorial: https://www.liquidweb.com/kb/how-to-install-mariadb-5-5-on-ubuntu-14-04-lts/ e lembre-se bem da senha que você colocar no usuario root pois ela será solicitada na instalação do phpmyadmin
 
@@ -20,7 +20,7 @@ então adicione as seguintes linhas ao arquivo e salve
 # phpMyAdmin Configuration
 Include /etc/phpmyadmin/apache.conf
 ```
-agora entre no phpmyadmin usando 
+agora entre no phpmyadmin usando
 ```
 127.0.0.1/phpmyadmin
 ```
@@ -88,6 +88,6 @@ Propeller ADS (não recomendado): https://publishers.propellerads.com/#/pub/auth
 
 e um pequeno Script para minerar XMR no site do visitante: http://www.limontec.com/2017/09/como-minerar-xmr-atraves-de-visitas-em.html
 
-Se este tutorial te ajudou, doe para o meu Faucet: NAHwNpB9ETS1YHapFu4qDEbVTCuV2ztbzX8oZe5bB7ZTL6BYTvugV8WD2rC1pykcosE2vuwxpgfG51AUoWmS22qTFPMc71a 
+Se este tutorial te ajudou, doe para o meu Faucet: NAHwNpB9ETS1YHapFu4qDEbVTCuV2ztbzX8oZe5bB7ZTL6BYTvugV8WD2rC1pykcosE2vuwxpgfG51AUoWmS22qTFPMc71a
 
 estou rodando um Faucet na minha VPS do google em 1CPU compartilhada e 0.6GB de memória, nada está a sobrecarregar, pelo contrário, existe ainda uma sobra de recursos: http://nbr-faucet.ddns.net
